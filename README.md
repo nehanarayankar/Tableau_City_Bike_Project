@@ -13,5 +13,7 @@ Citi Bike is available to both residents and visitors, who can sign up for a mem
 This bike-sharing program is especially useful for short trips and navigating busy urban areas, providing a sustainable mode of transportation. Citi Bike promotes health and wellness by encouraging cycling and offering users an alternative to car travel. It has also helped foster a sense of community, with users enjoying scenic rides around the city’s parks and streets. By reducing congestion and supporting active lifestyles, Citi Bike has become an important part of New York City’s transportation landscape.
 
 
+# Problem
 
+Since its launch, Citi Bike has faced criticism for its inefficient bike redistribution system, leading to imbalances between stations. During peak commuting hours, residential areas often run out of bikes in the morning, while commercial areas face shortages in the afternoon. Numerous recent tweets and articles reflect this frustration, highlighting the issues customers experience with bike availability throughout the day.
 
