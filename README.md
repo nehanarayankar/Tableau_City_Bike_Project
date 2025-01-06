@@ -15,5 +15,4 @@ This bike-sharing program is especially useful for short trips and navigating bu
 
 # Problem
 
-Since its launch, Citi Bike has faced criticism for its inefficient bike redistribution system, leading to imbalances between stations. During peak commuting hours, residential areas often run out of bikes in the morning, while commercial areas face shortages in the afternoon. Numerous recent tweets and articles reflect this frustration, highlighting the issues customers experience with bike availability throughout the day.
-
+After establishing within a few years, Citi Bike faced several complaints regarding its inefficient bike redistribution system, leading to imbalances between stations. During peak commuting hours, residential areas often run out of bikes in the morning, while commercial areas face shortages in the afternoon. Numerous recent tweets and articles reflect this frustration, highlighting the issues customers experience with bike availability throughout the day.
