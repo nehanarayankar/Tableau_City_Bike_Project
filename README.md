@@ -20,3 +20,4 @@ After establishing within a few years, Citi Bike faced several complaints regard
 
 # Data and Data Cleaning
 
+The data for this project can be found at https://citibikenyc.com/system-data
