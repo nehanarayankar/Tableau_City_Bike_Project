@@ -25,32 +25,32 @@ The data for this project can be found at [Citibike Data](https://citibikenyc.co
 # Data Cleaning Process
 
 **1. Imported Data (12 files)**
-   - **a.** Loaded data to Excel
-   - **b.** Reviewed for any immediate inconsistencies, missing values, and formatting issues
+   -  Loaded data to Excel
+   -  Reviewed for any immediate inconsistencies, missing values, and formatting issues
 
 **2. Handled Missing Values**
-   - **a.** Identified missing values across the dataset
-   - **b.** Replaced missing values with Average or Median
-   - **c.** In some cases, removed rows with missing critical data that could impact analysis
+   -  Identified missing values across the dataset
+   -  Replaced missing values with Average or Median
+   -  In some cases, removed rows with missing critical data that could impact analysis
 
 **3. Standardizing Data Formats**
-   - **a.** Converted date fields to a consistent format
-   - **b.** Ensured numerical data was correctly formatted
-   - **c.** Standardized text columns
+   -  Converted date fields to a consistent format
+   -  Ensured numerical data was correctly formatted
+   -  Standardized text columns
 
 **4. Removing Duplicates**
-   - **a.** Used Excel feature to remove duplicates
-   - **b.** Cross-checked if removing duplicates did not affect the data
+   -  Used Excel feature to remove duplicates
+   -  Cross-checked if removing duplicates did not affect the data
 
 **5. Filtering Outliers**
-   - **a.** Conducted basic outlier detection by reviewing summary statistics to identify anomalies
+   -  Conducted basic outlier detection by reviewing summary statistics to identify anomalies
 
 **6. Data Validation**
-   - **a.** Applied data validation rules to ensure future data entries follow expected formats
+   -  Applied data validation rules to ensure future data entries follow expected formats
 
 **7. Creating New Calculated Columns**
-   - **a.** Added calculated fields, e.g., trip duration
+   -  Added calculated fields, e.g., trip duration
 
 **8. Preparing Data for Tableau**
-   - **a.** Ensured that the cleaned data was in a format suitable for import into Tableau
-   - **b.** Saved the cleaned dataset as a new Excel file or CSV, removing unnecessary metadata or formatting to optimize performance when importing into Tableau
+   -  Ensured that the cleaned data was in a format suitable for import into Tableau
+   -  Saved the cleaned dataset as a new Excel file or CSV, removing unnecessary metadata or formatting to optimize performance when importing into Tableau
