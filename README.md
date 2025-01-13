@@ -54,3 +54,14 @@ The data for this project can be found at [Citibike Data](https://citibikenyc.co
 **8. Preparing Data for Tableau**
    -  Ensured that the cleaned data was in a format suitable for import into Tableau
    -  Saved the cleaned dataset as a new Excel file or CSV, removing unnecessary metadata or formatting to optimize performance when importing into Tableau
+
+## Visualization
+
+### Tableau:
+- **Dashboard Creation:** Utilized Tableau to create interactive dashboards visualizing the Citibike dataset.
+- **Filters and Interactivity:** Incorporated dynamic filters (e.g., date range, user type, station location), allowing users to interact with the data and explore trends in trip duration, station usage, and user demographics.
+
+
+
+
+  
