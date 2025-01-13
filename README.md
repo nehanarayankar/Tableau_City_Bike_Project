@@ -22,29 +22,29 @@ After establishing within a few years, Citi Bike faced several complaints regard
 
 The data for this project can be found at [Citibike Data](https://citibikenyc.com/system-data).
 
-##Data Cleaning Process
+## Data Cleaning Process
 
-1. Imported Data (12 files) 
-	a. Loaded data to Excel
-	b. Reviewed for any immediate inconsistencies, missing values and formatting issues
-2. Handled Missing Values
+1. Imported Data (12 files)
+   a. Loaded data to Excel
+   b. Reviewed for any immediate inconsistencies, missing values and formatting issues
+3. Handled Missing Values
 	a. Identified missing values across the dataset 
 	b. Replaced missing values with Average or Median
 	c. In some cases, removed rows with missing critical data that could impact analysis
-3. Standardizing Data Formats
+4. Standardizing Data Formats
 	a. Converted date fields to a consistent format
 	b. Ensured numerical data was correctly formatted
 	c. Standardized text columns
-4. Removing Duplicates
+5. Removing Duplicates
 	a. Used Excel feature to remove duplicates
 	b. Crossed if removing duplicates did not affect the data
-5. Filtering Outliers
+6. Filtering Outliers
 	a. Conducted basic outlier detection by reviewing summary statistics to identify anomalies
-6. Data Validation:
+7. Data Validation:
 	a. Applied data validation rules to ensure future data entries follow expected formats
-7. Creating New Calculated Columns:
+8. Creating New Calculated Columns:
 	a. Added calculated fields, e.g., trip duration 
-8. Preparing Data for Tableau:
+9. Preparing Data for Tableau:
 	a. Ensured that the cleaned data was in a format suitable for import into Tableau.
 	b. I saved the cleaned dataset as a new Excel file or CSV, removing unnecessary metadata or formatting to optimize performance when importing it into 		tableau
 
