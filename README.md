@@ -24,7 +24,7 @@ The data for this project can be found at [Citibike Data](https://citibikenyc.co
 
 # Data Cleaning Process
 
-## 1. Imported Data (12 files)
+** 1. Imported Data (12 files) **
    - **a.** Loaded data to Excel
    - **b.** Reviewed for any immediate inconsistencies, missing values, and formatting issues
 
