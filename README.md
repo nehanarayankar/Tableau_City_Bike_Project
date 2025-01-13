@@ -20,9 +20,10 @@ After establishing within a few years, Citi Bike faced several complaints regard
 
 # Data and Data Cleaning
 
-The data for this project can be found at https://citibikenyc.com/system-data
+The data for this project can be found at [Citibike Data](https://citibikenyc.com/system-data).
 
-Data Cleaning Process
+##Data Cleaning Process
+
 1. Imported Data (12 files) 
 	a. Loaded data to Excel
 	b. Reviewed for any immediate inconsistencies, missing values and formatting issues
