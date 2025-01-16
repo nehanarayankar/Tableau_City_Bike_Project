@@ -61,6 +61,9 @@ The data for this project can be found at [Citibike Data](https://citibikenyc.co
 - **Dashboard Creation:** Utilized Tableau to create interactive dashboards visualizing the Citibike dataset.
 - **Filters and Interactivity:** Incorporated dynamic filters (e.g., date range, user type, station location), allowing users to interact with the data and explore trends in trip duration, station usage, and user demographics.
 
+# Analysis
+
+
 
 
 
