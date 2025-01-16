@@ -63,7 +63,8 @@ The data for this project can be found at [Citibike Data](https://citibikenyc.co
 
 # Analysis
 
-
+- There are several issues reported with the NYC Citi bike service, and with the analysis here, I prepare to answer a few questions and provide some recommendations for improvements.
+    -Cleaned data was visualized using Tableau, and each visualization provides a unique perspective on bike usage patterns, user behavior, and station performance.
 
 
 
