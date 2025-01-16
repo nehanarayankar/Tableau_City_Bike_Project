@@ -68,10 +68,17 @@ The data for this project can be found at [Citibike Data](https://citibikenyc.co
 
 **1. Total No of Bike Rides**
 -   The total number of bike rides in the dataset gives a clear view of the overall adoption and usage of the Citi Bike program. This is a crucial indicator of the program's growth over time, this number gives the **Total Number of Bike Rides** taken by cyclists in the year 2022.
+  
   ![Total Bike Rides](https://github.com/user-attachments/assets/b78e1557-e599-466e-abfc-69927538156b)
 
+- Total bike rides reported in 2022 was 331,150.
+- This also shows that the number of users who subscribe to the app is 68% while the number of users who do not is approximately 32%, which shows 32% of users might not be regular users.
 
 
+**2. Number of Bike Rides in Every Month**
+-   This worksheet shows monthly ride trends, highlighting fluctuations in usage throughout the year.
+  
+  ![No of Rides Every Month (1)](https://github.com/user-attachments/assets/bd1cc9f2-ab01-434b-ac09-e68e0ffe58b2)
 
-
+- August and October reported the highest number of bike rides, while April and December reported the lowest.
   
