@@ -64,8 +64,13 @@ The data for this project can be found at [Citibike Data](https://citibikenyc.co
 # Analysis
 
 - There are several issues reported with the NYC Citi bike service, and with the analysis here, I prepare to answer a few questions and provide some recommendations for improvements.
-   -  Cleaned data was visualized using Tableau, and each visualization provides a unique perspective on bike usage patterns, user behavior, and station performance.
-    
+   -  Clean data is visualized using Tableau, and each visualization provides a unique perspective on bike usage patterns, user behavior, and station performance.
+
+**1. Total No of Bike Rides**
+-   The total number of bike rides in the dataset gives a clear view of the overall adoption and usage of the Citi Bike program. This is a crucial indicator of the program's growth over time, this number gives the **Total Number of Bike Rides** taken by cyclists in the year 2022.
+  ![Total Bike Rides](https://github.com/user-attachments/assets/b78e1557-e599-466e-abfc-69927538156b)
+
+
 
 
 
