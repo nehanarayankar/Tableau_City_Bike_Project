@@ -85,12 +85,11 @@ The data for this project can be found at [Citibike Data](https://citibikenyc.co
 **3. Average Ride Duration by User Type**
 -   This visualization breaks down the average number of rides by user type (e.g., Subscriber vs. Customer).
 
-![Avg Rides](https://github.com/user-attachments/assets/0981fd48-b7cc-498f-b0ea-10c094d7cf9d)
+![Avg Rides (1)](https://github.com/user-attachments/assets/6337fdd7-aec6-486c-b1ad-274ad6c787af)
 
 
-
-- Subscribers should ideally have a higher frequency of activity on the bikes, but given the issues within the system, Customers here are the high-frequency users.
-- This insight is useful and can be leveraged in targeting different user groups with tailored marketing and service offerings
+- Subscribers tend to have a higher frequency of rides, which indicates that regular users rely more heavily on the system, while occasional customers use it sporadically.
+- This insight is valuable and can be leveraged to target different user groups with tailored marketing and service offerings.
 
 
 
