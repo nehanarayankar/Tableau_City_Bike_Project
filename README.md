@@ -121,7 +121,12 @@ The data for this project can be found at [Citibike Data](https://citibikenyc.co
 
 -   This visualization helps us understand that subscribers who tend to be regular users take shorter trips while, on the other hand, leisure trips seem to show longer durations.
 
+**7. Trips by UserType and User Gender**
+-   This worksheet provides a gender breakdown of trips by user type. It shows differences in trip patterns between male and female riders, as well as between subscribers and casual users
+
+![Type and Gender Trips](https://github.com/user-attachments/assets/ae75967a-0a2f-40cf-8f38-64ab036a4a19)
 
 
+-   These insights can be used to create more inclusive experiences, focusing on gender-specific needs or preferences.
 
-
+**8. **
