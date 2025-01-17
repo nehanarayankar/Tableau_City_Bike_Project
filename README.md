@@ -92,4 +92,13 @@ The data for this project can be found at [Citibike Data](https://citibikenyc.co
 - This insight is valuable and can be leveraged to target different user groups with tailored marketing and service offerings.
 
 
+**4. Number of Trips in a Week**
+-   Analyzing trips by the day of the week helps identify peak usage times.
 
+![No of Trips in a Week](https://github.com/user-attachments/assets/aa567b26-d40e-41f5-8926-33dab834fa77)
+
+
+-   The visual shows how weekday vs. weekend trips differ, weekdays show a very consistent activity and bike usage, given people use bikes to commute, while weekends show a higher usage indicating increased leisure use.
+
+
+**5.** 
