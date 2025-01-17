@@ -78,7 +78,7 @@ The data for this project can be found at [Citibike Data](https://citibikenyc.co
 **2. Number of Bike Rides in Every Month**
 -   This worksheet shows monthly ride trends, highlighting fluctuations in usage throughout the year.
   
-  ![No of Rides Every Month (1)](https://github.com/user-attachments/assets/bd1cc9f2-ab01-434b-ac09-e68e0ffe58b2)
+  ![No of Rides Every Month](https://github.com/user-attachments/assets/e0921a5f-7e46-4ad1-af24-6b07bd4d0fb0)
 
 - August and October reported the highest number of bike rides, while April and December reported the lowest.
   
