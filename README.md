@@ -83,9 +83,9 @@ The data for this project can be found at [Citibike Data](https://citibikenyc.co
 - August and October reported the highest number of bike rides, while April and December reported the lowest.
   
 **3. Average Ride Duration by User Type**
--   This visualization breaks down the average number of rides by user type (e.g., Subscriber vs. Customer).
+-   This visualization breaks down the number of rides by user type (e.g., Subscriber vs. Customer).
 
-![Avg Rides (1)](https://github.com/user-attachments/assets/6337fdd7-aec6-486c-b1ad-274ad6c787af)
+![No Rides   Avg Duration by Users](https://github.com/user-attachments/assets/ba71b6d9-ca45-4093-89c3-38365660a700)
 
 
 - Subscribers tend to have a higher frequency of rides, which indicates that regular users rely more heavily on the system, while occasional customers use it sporadically.
