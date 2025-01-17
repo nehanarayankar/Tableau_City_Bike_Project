@@ -114,3 +114,14 @@ The data for this project can be found at [Citibike Data](https://citibikenyc.co
 -   Using this insight, the Company can place additional bikes as required at stations with the most activity.
 
 
+**6.Trip Duration by Month**
+-   This visualization analyzes trip duration over every month in the year, helping us understand how trip lengths fluctuate over time.
+
+![Trip Duration by Month](https://github.com/user-attachments/assets/b1e7425e-9b38-47cf-a59b-49a0d2e979fb)
+
+-   This visualization helps us understand that subscribers who tend to be regular users take shorter trips while, on the other hand, leisure trips seem to show longer durations.
+
+
+
+
+
