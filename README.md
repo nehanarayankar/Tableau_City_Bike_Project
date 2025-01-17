@@ -101,4 +101,16 @@ The data for this project can be found at [Citibike Data](https://citibikenyc.co
 -   The visual shows how weekday vs. weekend trips differ, weekdays show a very consistent activity and bike usage, given people use bikes to commute, while weekends show a higher usage indicating increased leisure use.
 
 
-**5.** 
+**5.Top 10 Stations Most Trips and Duration** 
+-   This visualization highlights the most popular stations in terms of the number of trips and total duration. 
+
+![Top 10 Starting Stations](https://github.com/user-attachments/assets/9191e2f3-931a-4eba-94b9-850aa09b729e)
+
+
+![Top 10 Ending Stations](https://github.com/user-attachments/assets/15b8af07-ca20-4ed2-a423-b76d7323cc46)
+
+-   Stations near transportation hubs, business districts, and parks are typically the busiest, providing insight into the areas with the highest demand and potential need for more bikes. These trends often 
+ mirror each other, with some locations showing higher start points or return rates, signaling popular routes or areas where users prefer starting or ending their trips.
+-   Using this insight, the Company can place additional bikes as required at stations with the most activity.
+
+
