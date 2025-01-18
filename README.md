@@ -129,4 +129,15 @@ The data for this project can be found at [Citibike Data](https://citibikenyc.co
 
 -   These insights can be used to create more inclusive experiences, focusing on gender-specific needs or preferences.
 
-**8. **
+**8. Station Maps**
+-   The start station and end station map visualizes the geographic distribution of trips based on where they began.
+
+![Starting Stations](https://github.com/user-attachments/assets/a60e1524-e093-412e-ac98-796a433217c3)
+
+![Ending Stations](https://github.com/user-attachments/assets/2f59dbb8-7947-4e1d-b7f7-fda722aac068)
+
+
+-   This analysis helps identify high-density areas where bike stations are clustered and allows for the optimization of bike availability at key locations.
+
+
+
