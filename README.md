@@ -177,5 +177,23 @@ There are several exciting opportunities for enhancing the current analysis and 
 -   **Mobile App Insights:** Incorporating data from mobile app usage could enhance the analysis, providing insights into user engagement and app-specific patterns, such as peak usage times or features most frequently used.
 
 
+## License
 
+The data used in this project is publicly available through the NYC Citi Bike Data Repository, which is provided under an open data license. However, the Tableau visualizations and any derived insights or analysis created in this project are protected under the following terms:
+
+
+## Acknowledgements
+
+I want to extend my sincere thanks and recognition to the following individuals, organizations, and resources that contributed to this project:
+
+**NYC Citi Bike:** For providing the public bike usage data that served as the foundation for this analysis.
+
+**Tableau:** For their powerful data visualization tools that enabled the creation of the dashboards and insights presented in this project.
+
+**Open Data NYC:** For making the Citi Bike data publicly available and easily accessible for analysis.
+
+
+## Conclusion
+
+This analysis of the NYCCiti Bike data provides valuable insights into bike usage patterns, station performance, and user behavior. Through the use of Tableau visualizations, we were able to identify key trends, such as peak usage times, popular stations, and differences in ride durations across various user types. By implementing the recommendations from this analysis, Citi Bike can optimize operations, enhance user engagement, and improve overall service efficiency. This project not only highlights the power of data in improving urban mobility but also offers a foundation for future enhancements and data-driven decision-making to further elevate the Citi Bike experience.
 
